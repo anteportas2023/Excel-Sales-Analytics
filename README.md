@@ -11,7 +11,7 @@
 
 ## Finance Report :
 - **Project objective:**
-- **1.** Create Profit and Loss (P&L) reports by **'Fiscal Year'**
+- **1.** Create Profit and Loss (P&L) reports by **'Fiscal Year'** https://github.com/anteportas2023/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf
 - **2.** Create Profit and Loss (P&L) reports by **'Markets'**
 
 - **Purpose of financial analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
